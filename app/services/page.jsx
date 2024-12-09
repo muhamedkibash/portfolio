@@ -9,28 +9,28 @@ const services = [
     num: "01",
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur tio ipsa aut quod laboriosam saepe dolor ispupum.",
+      "Creating responsive, high-performance websites tailored to meet your business goals. From single-page applications to complex web platforms, we bring your vision to life with cutting-edge technologies.",
     href: "",
   },
   {
     num: "02",
-    title: "IOS Development",
+    title: "iOS Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur tio ipsa aut quod laboriosam saepe dolor ispupum.",
+      "Building seamless, user-friendly iOS applications that deliver exceptional performance and align with Apple's design and technical standards. Turn your ideas into impactful mobile experiences.",
     href: "",
   },
   {
     num: "03",
     title: "UI/UX Design",
     description:
-      "Lorem ipsum dolor sit amet consectetur tio ipsa aut quod laboriosam saepe dolor ispupum.",
+      "Designing intuitive and visually appealing interfaces that enhance user engagement and satisfaction. From wireframes to prototypes, we create designs that resonate with your audience.",
     href: "",
   },
   {
     num: "04",
     title: "Android Development",
     description:
-      "Lorem ipsum dolor sit amet consectetur tio ipsa aut quod laboriosam saepe dolor ispupum.",
+      "Developing robust, scalable Android applications that provide a smooth user experience. Leveraging the latest tools and frameworks, we ensure your app stands out on the Play Store.",
     href: "",
   },
 ];
