@@ -26,20 +26,21 @@ const about = {
       fieldValue: "+1 (226) 989-0249",
     },
     {
-      fieldName: "Email",
-      fieldValue: "muhamedkibash@gmail.com",
-    },
-    {
       fieldName: "Nationality",
       fieldValue: "Canadian",
     },
     {
-      fieldName: "Languages",
-      fieldValue: "English, Arabic, Russian",
+      fieldName: "Email",
+      fieldValue: "muhamedkibash@gmail.com",
     },
     {
       fieldName: "Freelance",
       fieldValue: "Available",
+    },
+
+    {
+      fieldName: "Languages",
+      fieldValue: "English, Arabic, Russian",
     },
   ],
 };
